@@ -27,3 +27,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40"/>
 </p>
+---
+![](https://github-readme-stats.vercel.app/api?username=LuNiZz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LuNiZz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuNiZz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+![](https://github-profile-trophy.vercel.app/?username=LuNiZz&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+
+![](https://github-contributor-stats.vercel.app/api?username=LuNiZz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitor-badge.laobi.icu/badge?page_id=LuNiZz.lunizz)](#)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
