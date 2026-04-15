@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ferhat Gökçe</h1>
 
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
   <a href="https://linkedin.com/in/ferhatgokce" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
   <a href="https://instagram.com/ferhatgokce0" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30" width="30"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="30" />
   </a>
 </p>
 
