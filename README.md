@@ -28,8 +28,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40"/>
 </p>
 
----
+
 [![](https://visitor-badge.laobi.icu/badge?page_id=fegokce)](#)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
